@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "HARD_VANILA.aternos.me",
+    "port": 27165,
     "version": "",
     "try-creative": false
   },
